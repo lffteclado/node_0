@@ -1,1 +1,1 @@
-web_api
+web_api desenvolvido com nodejs, Express, Serialize e mysql.
